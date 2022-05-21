@@ -50,4 +50,6 @@ class Services {
 
     return TrainingModel.fromJson(trainingData);
   }
+  
 }
+  
